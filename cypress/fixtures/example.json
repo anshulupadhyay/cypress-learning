@@ -1,0 +1,10 @@
+{
+  "name": "Using fixtures to represent data",
+  "email": "abcd.ee@email.com",
+  "body": "Fixtures are a great way to mock data for responses to routes",
+  "first_name": "Joe",
+  "last_name": "Henry",
+  "comment": "I want to enquire about the bulk order",
+  "successMessage": "Thank You for your Message!",
+  "failMessage1": "Error: Invalid email address"
+}
